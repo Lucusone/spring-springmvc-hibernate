@@ -1,0 +1,279 @@
+	.sum_borders{
+      margin:0px 0px 10px 0px;
+      border: 1px solid rgba(36, 150, 231, 0.88);
+      border-radius:8px 8px 8px 8px;
+    }
+    
+    .row_cell_sum{
+    	margin:8px 8px 8px 8px;
+    	font-size: 14px
+    }
+
+    .input-poweranalysis{
+      width: 40px;
+      background-color:rgba(188, 158, 158, 0.1);
+      border: 1.5px solid rgba(36, 150, 231, 0.88);
+      margin-right: 5px;
+      margin-left: 10px;
+    }
+    .card-box{
+      background-color:rgba(188, 158, 158, 0.1);
+      border: 1px solid rgba(36, 150, 231, 0.88);
+      width: 100%;
+      margin:5px 5px 5px 15px
+    }
+    
+    .card-box-2{
+      background-color:rgba(188, 158, 158, 0.1);
+      border: 1px solid rgba(36, 150, 231, 0.88);
+      width: 100%;
+      margin:5px 5px 5px 5px
+    }
+    
+    .border-title{
+      width:160px;
+      margin-top:-10px;
+      margin-left:0px;
+      background:#29305a;
+      position:relative;
+      display:block;
+      border-radius:8px 8px 8px 8px;
+      text-align: center;
+    }
+    .card-box-3{
+      background-color:rgba(188, 158, 158, 0.1);
+      border: 1px solid rgba(36, 150, 231, 0.88);
+      width: 100%;
+      margin:5px 15px 5px 5px
+    }
+
+    #cardbox-col21{
+    }
+
+    .card-input-border{
+      width: 40px;
+      background-color:rgba(188, 158, 158, 0.1);
+      border: 1.5px solid rgba(36, 150, 231, 0.88);
+      margin-right: 5px;
+      margin-left: 20px;
+      margin-bottom: 8px;
+    }
+    
+    .card-input-noneborder{
+      width: 45px;
+      background-color:rgba(188, 158, 158,0);
+      border: 0px solid rgba(36, 150, 231, 0);
+      margin-right: 5px;
+      margin-top:0px;
+      color: white;
+      text-align:right;
+    }
+    
+    #power_sum{
+    	margin-left: 32px
+    }
+    
+    .page-background{
+    	background-color: #141ac6;
+    	color:#f7f7f9; 
+    	width: 100%;
+    	height:100vh
+    }
+    
+    .header-page{
+    	height:7%;
+    	width:100%;
+    }
+    
+    .section{
+    	height:10%;
+    	width:100%;
+    }
+    
+    .main-page{
+    	height:83%;
+    	width:100%;
+    	font-size: 14px;
+    }
+    
+    .page-title{
+    	font-size: 25px;
+    	margin-top: 5px;
+    	margin-bottom:5px;
+    	color: #00ff00;
+    }
+    
+    .card-col1-row{
+    	margin-left: 20px;
+    }
+    
+    .card-col2-row{
+    	margin-left: 40px;
+    }
+    
+    .card-col12_1-label{
+    	margin-top:18px
+    }
+    
+    .card-col12_2-label{
+    	margin-top:26px
+    }
+    
+    .card-col13_1-label{
+    	margin-top:16px;
+    }
+    
+    .card-col13_2-label{
+    	margin-top:20px;
+    }
+    
+    .card-col13_3-label{
+    	margin-top:22px
+    }
+    
+    #single_radiation_line_count{
+    	margin-left:35px;
+    }
+    
+    #line_connect_analysis_pie{
+    	width:100%;
+    	height:100%;
+    }
+    
+    #importantuser_line_bar{
+    	width:100%;
+    	height:100%;
+    }
+    
+    #importantuser_poweranalysis_bar{
+    	width:100%;
+    	height:100%;;
+    }
+    
+    #non_automatic_switch{
+    	margin-left: 25px
+    }
+    
+    #listing{
+    	margin-left: 80px;
+    }
+    
+    #communication_anomaly{
+    	margin-left: 52px;
+    }
+    
+    #local_status{
+    	margin-left: 52px;
+    }
+    
+    #equipment_failure{
+    	margin-left: 52px;
+    }
+    
+    .card-box-3-row{
+    	margin-top:5px;
+    }
+    
+    .card-box-3-row-out{
+    	margin-left:10px;
+    	margin-right:5px;
+    }
+    
+    #line-running-status_bar{
+    	width:100%;
+    	height:100%;
+    }
+    
+    #blackout_line{
+    	margin-top:4px;
+    }
+    #blackout_line_label{
+    	margin-top:5px;
+    	margin-bottom:0px
+    }
+    #fault_line{
+    	margin-top:13px;
+    	margin-bottom:0px
+    }
+    #fault_line_label{
+    	margin-top:14px;
+    	margin-bottom:0px
+    }
+    #line_load_100{
+    	margin-top:9px;
+    }
+    #line_load_100_label{
+    	margin-top:10px;
+    	margin-bottom:0px;
+    }
+    #line_load_70-100{
+    	margin-top:9px;
+    }
+    #line_load_70-100_label{
+    	margin-top:10px;
+    	margin-bottom:0px;
+    }
+    #line_load_30-70{
+    	margin-top:13px;
+    }
+    #line_load_30-70_label{
+    	margin-top:14px;
+    	margin-bottom:0px;
+    }
+     #line_load_30{
+    	margin-top:10px;
+    }
+    #line_load_30_label{
+    	margin-top:11px;
+    	margin-bottom:0px;
+    }
+    #peibian-running-status_bar{
+    	width:100%;
+    	height:100%;
+    }
+    #power_out_distribute{
+    	margin-top:4px;
+    }
+    #power_out_distribute_label{
+    	margin-top:5px;
+    	margin-bottom:0px;
+    }
+    #peibian_load_100{
+    	margin-top:9px;
+    }
+    #peibian_load_100_label{
+    	margin-top:10px;
+    	margin-bottom:0px;
+    }
+    #peibian_load_70-100{
+    	margin-top:9px;
+    }
+    #peibian_load_70-100_label{
+    	margin-top:10px;
+    	margin-bottom:0px;
+    }
+    #peibian_load_30-70{
+    	margin-top:13px;
+    }
+    #peibian_load_30-70_label{
+    	margin-top:14px;
+    	margin-bottom:0px;
+    }
+    #peibian_load_30{
+    	margin-top:10px;
+    }
+    #peibian_load_30_label{
+    	margin-top:11px;
+    	margin-bottom:0px
+    }
+    
+    .card-box-33-row{
+    	margin-left: 30px
+    }
+    
+    #single_radiation_line{
+    	margin-left: 33px;
+    }
+    #contact_abnormal{
+    	margin-left: 48px;
+    }
